@@ -1,337 +1,337 @@
 [
     {
         "ddd": "11",
-        "cidade": "Região Metropolitana de São Paulo/Região Metropolitana de Jundiaí/Região Geográfica Imediata de Bragança Paulista",
+        "regiao": "Região Metropolitana de São Paulo/Região Metropolitana de Jundiaí/Região Geográfica Imediata de Bragança Paulista",
         "estado": "São Paulo"
     },
     {
         "ddd": "12",
-        "cidade": "Região Metropolitana do Vale do Paraíba e Litoral Norte",
+        "regiao": "Região Metropolitana do Vale do Paraíba e Litoral Norte",
         "estado": "São Paulo"
     },
     {
         "ddd": "13",
-        "cidade": "Região Metropolitana da Baixada Santista/Vale do Ribeira",
+        "regiao": "Região Metropolitana da Baixada Santista/Vale do Ribeira",
         "estado": "São Paulo"
     },
     {
         "ddd": "14",
-        "cidade": "Avaré/Bauru/Botucatu/Jaú/Lins/Marília/Ourinhos",
+        "regiao": "Avaré/Bauru/Botucatu/Jaú/Lins/Marília/Ourinhos",
         "estado": "São Paulo"
     },
     {
         "ddd": "15",
-        "cidade": "Itapetininga/Itapeva/Sorocaba/Tatuí",
+        "regiao": "Itapetininga/Itapeva/Sorocaba/Tatuí",
         "estado": "São Paulo"
     },
     {
         "ddd": "16",
-        "cidade": "Araraquara/Franca/Jaboticabal/Ribeirão Preto/São Carlos/Sertãozinho",
+        "regiao": "Araraquara/Franca/Jaboticabal/Ribeirão Preto/São Carlos/Sertãozinho",
         "estado": "São Paulo"
     },
     {
         "ddd": "17",
-        "cidade": "Barretos/Catanduva/Fernandópolis/Jales/São José do Rio Preto/Votuporanga",
+        "regiao": "Barretos/Catanduva/Fernandópolis/Jales/São José do Rio Preto/Votuporanga",
         "estado": "São Paulo"
     },
     {
         "ddd": "18",
-        "cidade": "Andradina/Araçatuba/Assis/Birigui/Dracena/Presidente Prudente",
+        "regiao": "Andradina/Araçatuba/Assis/Birigui/Dracena/Presidente Prudente",
         "estado": "São Paulo"
     },
     {
         "ddd": "19",
-        "cidade": "Americana/Campinas/Limeira/Piracicaba/Rio Claro/São João da Boa Vista",
+        "regiao": "Americana/Campinas/Limeira/Piracicaba/Rio Claro/São João da Boa Vista",
         "estado": "São Paulo"
     },
     {
         "ddd": "21",
-        "cidade": "Rio de Janeiro e Região Metropolitana/Teresópolis",
+        "regiao": "Rio de Janeiro e Região Metropolitana/Teresópolis",
         "estado": "Rio de Janeiro"
     },
     {
         "ddd": "22",
-        "cidade": "Cabo Frio/Campos dos Goytacazes/Macaé/Nova Friburgo",
+        "regiao": "Cabo Frio/Campos dos Goytacazes/Macaé/Nova Friburgo",
         "estado": "Rio de Janeiro"
     },
     {
         "ddd": "24",
-        "cidade": "Angra dos Reis/Petrópolis/Volta Redonda",
+        "regiao": "Angra dos Reis/Petrópolis/Volta Redonda",
         "estado": "Rio de Janeiro"
     },
     {
         "ddd": "27",
-        "cidade": "Vitória e Região Metropolitana/Colatina/Domingos Martins/Linhares",
+        "regiao": "Vitória e Região Metropolitana/Colatina/Domingos Martins/Linhares",
         "estado": "Espírito Santo"
     },
     {
         "ddd": "28",
-        "cidade": "Cachoeiro de Itapemirim/Castelo/Marataízes",
+        "regiao": "Cachoeiro de Itapemirim/Castelo/Marataízes",
         "estado": "Espírito Santo"
     },
     {
         "ddd": "31",
-        "cidade": "Belo Horizonte e Região Metropolitana/Conselheiro Lafaiete/Ipatinga",
+        "regiao": "Belo Horizonte e Região Metropolitana/Conselheiro Lafaiete/Ipatinga",
         "estado": "Minas Gerais"
     },
     {
         "ddd": "32",
-        "cidade": "Barbacena/Juiz de Fora/Muriaé/São João del-Rei/Ubá",
+        "regiao": "Barbacena/Juiz de Fora/Muriaé/São João del-Rei/Ubá",
         "estado": "Minas Gerais"
     },
     {
         "ddd": "33",
-        "cidade": "Almenara/Caratinga/Governador Valadares/Manhuaçu/Teófilo Otoni",
+        "regiao": "Almenara/Caratinga/Governador Valadares/Manhuaçu/Teófilo Otoni",
         "estado": "Minas Gerais"
     },
     {
         "ddd": "34",
-        "cidade": "Araguari/Araxá/Patos de Minas/Uberlândia/Uberaba",
+        "regiao": "Araguari/Araxá/Patos de Minas/Uberlândia/Uberaba",
         "estado": "Minas Gerais"
     },
     {
         "ddd": "35",
-        "cidade": "Alfenas/Guaxupé/Lavras/Poços de Caldas/Pouso Alegre/Varginha",
+        "regiao": "Alfenas/Guaxupé/Lavras/Poços de Caldas/Pouso Alegre/Varginha",
         "estado": "Minas Gerais"
     },
     {
         "ddd": "37",
-        "cidade": "Bom Despacho/Divinópolis/Formiga/Itaúna/Pará de Minas",
+        "regiao": "Bom Despacho/Divinópolis/Formiga/Itaúna/Pará de Minas",
         "estado": "Minas Gerais"
     },
     {
         "ddd": "38",
-        "cidade": "Curvelo/Diamantina/Montes Claros/Pirapora/Unaí",
+        "regiao": "Curvelo/Diamantina/Montes Claros/Pirapora/Unaí",
         "estado": "Minas Gerais"
     },
     {
         "ddd": "41",
-        "cidade": "Curitiba e Região Metropolitana",
+        "regiao": "Curitiba e Região Metropolitana",
         "estado": "Paraná"
     },
     {
         "ddd": "42",
-        "cidade": "Ponta Grossa/Guarapuava",
+        "regiao": "Ponta Grossa/Guarapuava",
         "estado": "Paraná"
     },
     {
         "ddd": "43",
-        "cidade": "Apucarana/Londrina",
+        "regiao": "Apucarana/Londrina",
         "estado": "Paraná"
     },
     {
         "ddd": "44",
-        "cidade": "Maringá/Campo Mourão/Umuarama",
+        "regiao": "Maringá/Campo Mourão/Umuarama",
         "estado": "Paraná"
     },
     {
         "ddd": "45",
-        "cidade": "Cascavel/Foz do Iguaçu",
+        "regiao": "Cascavel/Foz do Iguaçu",
         "estado": "Paraná"
     },
     {
         "ddd": "46",
-        "cidade": "Francisco Beltrão/Pato Branco",
+        "regiao": "Francisco Beltrão/Pato Branco",
         "estado": "Paraná"
     },
     {
         "ddd": "47",
-        "cidade": "Balneário Camboriú/Blumenau/Itajaí/Joinville",
+        "regiao": "Balneário Camboriú/Blumenau/Itajaí/Joinville",
         "estado": "Santa Catarina"
     },
     {
         "ddd": "48",
-        "cidade": "Florianópolis e Região Metropolitana/Criciúma",
+        "regiao": "Florianópolis e Região Metropolitana/Criciúma",
         "estado": "Santa Catarina"
     },
     {
         "ddd": "49",
-        "cidade": "Caçador/Chapecó/Lages",
+        "regiao": "Caçador/Chapecó/Lages",
         "estado": "Santa Catarina"
     },
     {
         "ddd": "51",
-        "cidade": "Porto Alegre e Região Metropolitana/Santa Cruz do Sul/Litoral Norte",
+        "regiao": "Porto Alegre e Região Metropolitana/Santa Cruz do Sul/Litoral Norte",
         "estado": "Rio Grande do Sul"
     },
     {
         "ddd": "53",
-        "cidade": "Pelotas/Rio Grande",
+        "regiao": "Pelotas/Rio Grande",
         "estado": "Rio Grande do Sul"
     },
     {
         "ddd": "54",
-        "cidade": "Caxias do Sul/Passo Fundo",
+        "regiao": "Caxias do Sul/Passo Fundo",
         "estado": "Rio Grande do Sul"
     },
     {
         "ddd": "55",
-        "cidade": "Santa Maria/Santana do Livramento/Santo Ângelo/Uruguaiana",
+        "regiao": "Santa Maria/Santana do Livramento/Santo Ângelo/Uruguaiana",
         "estado": "Rio Grande do Sul"
     },
     {
         "ddd": "61",
-        "cidade": "Abrangência em todo o Distrito Federal e municípios da Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "regiao": "Abrangência em todo o Distrito Federal e municípios da Região Integrada de Desenvolvimento do Distrito Federal e Entorno",
         "estado": "Distrito Federal/Goiás"
     },
     {
         "ddd": "62",
-        "cidade": "Goiânia e Região Metropolitana/Anápolis/Niquelândia/Porangatu",
+        "regiao": "Goiânia e Região Metropolitana/Anápolis/Niquelândia/Porangatu",
         "estado": "Goiás"
     },
     {
         "ddd": "63",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Tocantins"
     },
     {
         "ddd": "64",
-        "cidade": "Caldas Novas/Catalão/Itumbiara/Rio Verde",
+        "regiao": "Caldas Novas/Catalão/Itumbiara/Rio Verde",
         "estado": "Goiás"
     },
     {
         "ddd": "65",
-        "cidade": "Cuiabá e Região Metropolitana",
+        "regiao": "Cuiabá e Região Metropolitana",
         "estado": "Mato Grosso"
     },
     {
         "ddd": "66",
-        "cidade": "Rondonópolis/Sinop",
+        "regiao": "Rondonópolis/Sinop",
         "estado": "Mato Grosso"
     },
     {
         "ddd": "67",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Mato Grosso do Sul"
     },
     {
         "ddd": "68",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Acre"
     },
     {
         "ddd": "69",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Rondônia"
     },
     {
         "ddd": "71",
-        "cidade": "Salvador e Região Metropolitana",
+        "regiao": "Salvador e Região Metropolitana",
         "estado": "Bahia"
     },
     {
         "ddd": "73",
-        "cidade": "Eunápolis/Ilhéus/Porto Seguro/Teixeira de Freitas",
+        "regiao": "Eunápolis/Ilhéus/Porto Seguro/Teixeira de Freitas",
         "estado": "Bahia"
     },
     {
         "ddd": "74",
-        "cidade": "Irecê/Jacobina/Juazeiro/Xique-Xique",
+        "regiao": "Irecê/Jacobina/Juazeiro/Xique-Xique",
         "estado": "Bahia"
     },
     {
         "ddd": "75",
-        "cidade": "Alagoinhas/Feira de Santana/Paulo Afonso/Valença",
+        "regiao": "Alagoinhas/Feira de Santana/Paulo Afonso/Valença",
         "estado": "Bahia"
     },
     {
         "ddd": "77",
-        "cidade": "Barreiras/Bom Jesus da Lapa/Guanambi/Vitória da Conquista",
+        "regiao": "Barreiras/Bom Jesus da Lapa/Guanambi/Vitória da Conquista",
         "estado": "Bahia"
     },
     {
         "ddd": "79",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Sergipe"
     },
     {
         "ddd": "81",
-        "cidade": "Recife e Região Metropolitana/Caruaru",
+        "regiao": "Recife e Região Metropolitana/Caruaru",
         "estado": "Pernambuco"
     },
     {
         "ddd": "82",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Alagoas"
     },
     {
         "ddd": "83",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Paraíba"
     },
     {
         "ddd": "84",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Rio Grande do Norte"
     },
     {
         "ddd": "85",
-        "cidade": "Fortaleza e Região Metropolitana",
+        "regiao": "Fortaleza e Região Metropolitana",
         "estado": "Ceará"
     },
     {
         "ddd": "86",
-        "cidade": "Teresina e Região Metropolitana/Parnaíba",
+        "regiao": "Teresina e Região Metropolitana/Parnaíba",
         "estado": "Piauí"
     },
     {
         "ddd": "87",
-        "cidade": "Garanhuns/Petrolina/Salgueiro/Serra Talhada",
+        "regiao": "Garanhuns/Petrolina/Salgueiro/Serra Talhada",
         "estado": "Pernambuco"
     },
     {
         "ddd": "88",
-        "cidade": "Juazeiro do Norte/Sobral",
+        "regiao": "Juazeiro do Norte/Sobral",
         "estado": "Ceará"
     },
     {
         "ddd": "89",
-        "cidade": "Picos/Floriano",
+        "regiao": "Picos/Floriano",
         "estado": "Piauí"
     },
     {
         "ddd": "91",
-        "cidade": "Belém e Região Metropolitana",
+        "regiao": "Belém e Região Metropolitana",
         "estado": "Pará"
     },
     {
         "ddd": "92",
-        "cidade": "Manaus e Região Metropolitana/Parintins",
+        "regiao": "Manaus e Região Metropolitana/Parintins",
         "estado": "Amazonas"
     },
     {
         "ddd": "93",
-        "cidade": "Santarém/Altamira",
+        "regiao": "Santarém/Altamira",
         "estado": "Pará"
     },
     {
         "ddd": "94",
-        "cidade": "Marabá",
+        "regiao": "Marabá",
         "estado": "Pará"
     },
     {
         "ddd": "95",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Roraima"
     },
     {
         "ddd": "96",
-        "cidade": "Abrangência em todo o estado",
+        "regiao": "Abrangência em todo o estado",
         "estado": "Amapá"
     },
     {
         "ddd": "97",
-        "cidade": "Abrangência no interior do estado",
+        "regiao": "Abrangência no interior do estado",
         "estado": "Amazonas"
     },
     {
         "ddd": "98",
-        "cidade": "São Luís e Região Metropolitana",
+        "regiao": "São Luís e Região Metropolitana",
         "estado": "Maranhão"
     },
     {
         "ddd": "99",
-        "cidade": "Caxias/Codó/Imperatriz",
+        "regiao": "Caxias/Codó/Imperatriz",
         "estado": "Maranhão"
     }
 ]
